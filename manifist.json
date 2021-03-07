@@ -1,0 +1,19 @@
+{
+  "name": "捣鼓猫宁",
+  "short_name": "Catmint",
+  "start_url": "/?from=homescreen",
+  "icons": [
+    {
+      "src": "/media/images/custom-headerLogo.JPG",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    }, {
+      "src": "/media/images/custom-headerLogo.JPG",
+      "sizes": "512x512",
+      "type": "image/jpg"
+    }
+  ],
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1976d2"
+}
